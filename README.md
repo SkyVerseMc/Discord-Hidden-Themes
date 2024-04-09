@@ -21,8 +21,8 @@ Example :
 ```js
 document.body.className = "theme-midnight";
 ```
-CSS: [Here](https://github.com/SkyVerseMc/Discord-Hidden-Themes/blob/main/midnight.css)
-<img src="https://betterdiscord.app/resources/branding/logo_small.svg" alt="BD" height="20" width="20"/> **Plugin**: [Here](https://raw.githubusercontent.com/SkyVerseMc/Discord-Hidden-Themes/main/plugins/EnableMidnightTheme.plugin.js)
+**CSS:** [Here](https://github.com/SkyVerseMc/Discord-Hidden-Themes/blob/main/midnight.css)<br>
+<img src="https://betterdiscord.app/resources/branding/logo_small.svg" alt="BD" height="15" width="15"/> **Plugin**: [Here](https://raw.githubusercontent.com/SkyVerseMc/Discord-Hidden-Themes/main/plugins/EnableMidnightTheme.plugin.js)
 
 
 ## Darker theme
@@ -33,5 +33,5 @@ Injection example script :
 ```js
 document.body.className = "theme-darker";
 ```
-CSS: [Here](https://github.com/SkyVerseMc/Discord-Hidden-Themes/blob/main/darker.css)
-<img src="https://betterdiscord.app/resources/branding/logo_small.svg" alt="BD" height="20" width="20"/> **Plugin**: [Here](https://raw.githubusercontent.com/SkyVerseMc/Discord-Hidden-Themes/main/plugins/EnableDarkerTheme.plugin.js)
+**CSS:** [Here](https://github.com/SkyVerseMc/Discord-Hidden-Themes/blob/main/darker.css)<br>
+<img src="https://betterdiscord.app/resources/branding/logo_small.svg" alt="BD" height="15" width="15"/> **Plugin**: [Here](https://raw.githubusercontent.com/SkyVerseMc/Discord-Hidden-Themes/main/plugins/EnableDarkerTheme.plugin.js)
