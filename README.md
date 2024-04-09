@@ -7,9 +7,9 @@ Discord has 2 main themes: a light one and a dark one.
 You are probably familiar with the "AMOLED optimized mode" theme on Android devices, recently renamed "Midnight".
 But did you know that the desktop version also includes this theme in its files ? In fact, there is two "secret" themes in the desktop version.
 
-Here's how to enable the Midnight and Darker themes.
+Here's how to enable the Midnight and Darker themes:
 
-Both of these themes can be enabled by adding "theme-<name>" in the body class name. Unless Nitro themes, which are just small style injections directly in the page, these themes have a complete color palette in Discord's assets.
+Both of these themes can be enabled by adding "theme-&lt;name&gt;" in the body class name. Unless Nitro themes, which are just small style injections directly in the page, these themes have a complete color palette in Discord's assets.
 
 The style properties in the css files in this repo are just isolated parts of Discord's style sheets.
 
