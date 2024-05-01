@@ -5,7 +5,7 @@
 Discord has 2 main themes: a light one and a dark one.
 
 You are probably familiar with the "AMOLED optimized mode" theme on Android devices, recently renamed "Midnight".
-But did you know that the desktop version also includes this theme in its files ? In fact, there is two "secret" themes in the desktop version.
+But the desktop version also contains this theme. In fact, there is two unused themes in the desktop version.
 
 Here's how to enable the Midnight and Darker themes:
 
