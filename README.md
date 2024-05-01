@@ -1,4 +1,4 @@
-<h1>Discord Hidden Themes
+<h1>Hidden Discord Themes
 <img align="right" src="https://upload.wikimedia.org/wikipedia/fr/4/4f/Discord_Logo_sans_texte.svg" alt="Discord" height="50" width="50"/>
 </h1>
 
